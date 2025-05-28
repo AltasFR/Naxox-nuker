@@ -1,0 +1,7 @@
+Copyright 2025 AltasFR
+
+Permission is hereby granted to use this software for personal or commercial purposes, provided the code remains unchanged and this copyright notice is included in all copies or substantial portions of the Software.
+
+Modification, redistribution of modified versions, or derivative works are strictly prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
